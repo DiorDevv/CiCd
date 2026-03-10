@@ -14,6 +14,6 @@ def test_kopaytirish():
 def test_bolish():
     assert bolish(10, 2) == 5.0
 
-def test_nolga_bolish():
+def test_nolga_bolish()
     with pytest.raises(ValueError):
         bolish(5, 0)
