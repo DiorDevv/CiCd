@@ -11,6 +11,7 @@ def test_ayirish():
 def test_kopaytirish():
     assert kopaytirish(4, 3) == 12
 
+
 def test_bolish():
     assert bolish(10, 2) == 5.0
 
